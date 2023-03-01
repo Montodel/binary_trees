@@ -1,7 +1,7 @@
 0x1D. C - Binary trees
 ======================
 
--   By Alexandre Gautier
+-   By Suleiman Ahmed
 
 #### In a nutshell...
 
